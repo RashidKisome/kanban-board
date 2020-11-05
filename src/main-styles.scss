@@ -1,0 +1,25 @@
+/* Här kommer vi ha våra globala styles och bulma variabler*/
+
+// importera Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700|Lato:400,800,900');
+
+$family-sans-serif: "Nunito", sans-serif;
+
+
+
+// Updatera Bulmas komponentvariabler
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+/* Globala Styles */
+html, body {
+    height: 100%;
+}
+
+html {
+    background-image: url('./assets/background.svg');
+    background-size: cover;
+
+    overflow-y: auto !important;
+}
