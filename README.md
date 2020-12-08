@@ -1,5 +1,6 @@
 I am a big fan of productivity tools, while building this project I learned the power of Angular CDK,
  which I havent used before. Angular CDK to implement the " drag and drop " functionality & the Bulma CSS library for the styling. Also trying to extend my knowledge of Typescript/Angular further.
+ ...
 # KanbanBoard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
